@@ -1,0 +1,8 @@
+{
+  "name": "Conecta_fire",
+  "app_id": "fef59f0c",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
